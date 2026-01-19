@@ -1,8 +1,8 @@
 # TOPSIS: Algorithm, Package & Web Application
 
-![Language](https://img.shields.io/badge/Language-Python_3-blue?style=flat-square)
-![Distribution](https://img.shields.io/badge/Dist-PyPI-orange?style=flat-square)
-![Deployment](https://img.shields.io/badge/Deployment-Streamlit-red?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-Package-green?style=for-the-badge&logo=pypi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -63,5 +63,6 @@ A user-friendly web application built with Streamlit that removes the need for c
 **Roll Number:** 102303250  
 **Course:** UCS654 Predictive Analytics using Statistics  
 **Institute:** Thapar Institute of Engineering & Technology
+
 
 ---
