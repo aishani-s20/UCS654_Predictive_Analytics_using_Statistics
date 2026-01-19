@@ -14,7 +14,7 @@ This repository acts as a consolidated portfolio for the **Predictive Analysis**
 | Task ID | Project Module | Key Functionality | Resource Link |
 | :---: | :--- | :--- | :---: |
 | **1** | **Local Script** | Command-line tool for local data processing. | [📂 Source Code](https://github.com/aishani-s20/TOPSIS_Implementation) |
-| **2** | **Python Library** | Installable package hosted on PyPI. | [📦 Package Repo](https://github.com/aishani-s20/TOPSIS_PYPI) |
+| **2** | **PyPI package** | Installable package hosted on PyPI. | [📦 Package Repo](https://github.com/aishani-s20/TOPSIS_PYPI) |
 | **3** | **Web Interface** | Interactive GUI with email automation. | [🌐 Web App Repo](https://github.com/aishani-s20/TOPSIS_Web_App) |
 
 ---
@@ -66,3 +66,4 @@ A user-friendly web application built with Streamlit that removes the need for c
 
 
 ---
+
