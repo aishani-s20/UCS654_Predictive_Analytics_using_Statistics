@@ -1,8 +1,14 @@
 # 🎵 YouTube Audio Mashup Suite
 
-| Version | Repository Link | Live Application |
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-ff4b4b.svg)
+![FFmpeg](https://img.shields.io/badge/Audio-FFmpeg-green.svg)
+![yt-dlp](https://img.shields.io/badge/Downloader-yt--dlp-yellow.svg)
+![Status](https://img.shields.io/badge/Project-Active-success.svg)
+
+| Version | Repository Link | Application |
 |---------|----------------|------------------|
-| **CLI Version** | [Song_Mashup_CLI](https://github.com/aishani-s20/Song_Mashup_CLI) | N/A (Local Terminal) |
+| **CLI Version** | [Song_Mashup_CLI](https://github.com/aishani-s20/Song_Mashup_CLI) | (Local Terminal) |
 | **Web Service** | [Song_Mashup_Web_Service](https://github.com/aishani-s20/Song_Mashup_Web_Service) | [Mashup Pro Live](https://mashuppro.streamlit.app/) |
 
 ---
@@ -37,17 +43,7 @@ python 102303250.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileNam
 
 * **Standard Mashup:** 
   ```bash
-  python 102303250.py "Atif Aslam" 11 25 my_mashup.mp3
-  ```
-
-* **Extended Mashup:** 
-  ```bash
-  python 102303250.py "Taylor Swift" 12 25 result.mp3
-  ```
-
-* **High-Volume Mashup:** 
-  ```bash
-  python 102303250.py "Sharry Maan" 20 20 output.mp3
+  python 102303250.py "Javed Ali" 11 25 my_mashup.mp3
   ```
 
 ### ✅ Validation:
@@ -119,13 +115,7 @@ pip install yt-dlp pydub static-ffmpeg
 - **Roll Number:** 102303250
 - **Institute:** Thapar Institute of Engineering & Technology
 - **GitHub:** [@aishani-s20](https://github.com/aishani-s20)
-- **Email:** aishani.code@gmail.com
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+- **Email:** aishani1020@gmail.com
 
 ---
 
