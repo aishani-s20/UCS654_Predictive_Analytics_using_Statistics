@@ -52,7 +52,7 @@ Enforces a minimum of **11 videos** and **21-second snippets** to ensure a profe
 
 ---
 
-## 🌐 2. Streamlit Web Service
+## 🌐 2. Web Service
 
 A cloud-optimized version designed for maximum uptime and zero local configuration.
 
